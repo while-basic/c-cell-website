@@ -52,12 +52,12 @@
           </ul>
           <ul class="contact">
             <li>
-              <span class="ml-2">Email: </span><a class="mx-0" href="mailto:info@bayzamusic.com" target="_blank">info@bayzamusic.com</a>
+              <span class="ml-2">Email: </span><a class="mx-0" href="mailto:c.cell.records@icloud.com" target="_blank">c.cell.records@icloud.com</a>
             </li>
           </ul>
         </div>
         <div class="col-md-12 text-center mt-4 text-small">
-          <p class="mb-0">© Bayza. All rights reserved.</p>
+          <p class="mb-0">© C-Cell. All rights reserved.</p>
         </div>
       </div>
     </div>
